@@ -1,0 +1,17 @@
+{
+  "name": "bombrowser3",
+  "version": "1.0.0",
+  "description": "My personal app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bomquangia",
+  "license": "ISC",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.54",
+    "electron": "^12.0.2"
+  }
+}
